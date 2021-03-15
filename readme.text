@@ -12,6 +12,6 @@ http://127.0.0.1:8000/admin                         for superuser admin area
 
 http://127.0.0.1:8000/admin/mapi/compradores/           for listing compradores
 http://127.0.0.1:8000/admin/mapi/compradores/add        for add compradores
-127.0.0.1:8000/admin/mapi/compradores/2/delete/         for deleting compradores sending the id number example #2
+http://127.0.0.1:8000/admin/mapi/compradores/2/delete/  for deleting compradores sending the id number example #2
 http://127.0.0.1:8000/admin/mapi/compradores/2/change/  for listing compradores attributes sending id example #2
 
