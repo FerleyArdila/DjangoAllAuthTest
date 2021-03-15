@@ -1,0 +1,17 @@
+Configured DjangoAllAuthExample URLs:
+
+testing user:   admin/admin
+
+http://127.0.0.1:8000/accounts/signup/              for creating account
+http://127.0.0.1:8000/accounts/login/               for login
+http://127.0.0.1:8000/                              for logged users
+http://127.0.0.1:8000/accounts/logout/              for logout
+http://127.0.0.1:8000/accounts/email/               for change email account
+http://127.0.0.1:8000/accounts/password/reset/      for password reset
+http://127.0.0.1:8000/admin                         for superuser admin area
+
+http://127.0.0.1:8000/admin/mapi/compradores/           for listing compradores
+http://127.0.0.1:8000/admin/mapi/compradores/add        for add compradores
+127.0.0.1:8000/admin/mapi/compradores/2/delete/         for deleting compradores sending the id number example #2
+http://127.0.0.1:8000/admin/mapi/compradores/2/change/  for listing compradores attributes sending id example #2
+
